@@ -9,4 +9,4 @@ build:
 
 package-install:
 	uv venv
-	uv tool install dist/*.whl
+	uv pip install dist/*.whl
