@@ -10,3 +10,6 @@ build:
 package-install:
 	uv venv
 	uv pip install dist/*.whl
+lint:
+	uv run ruff check brain_games
+
