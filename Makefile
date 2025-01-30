@@ -13,3 +13,8 @@ package-install:
 lint:
 	uv run ruff check brain_games
 
+build:
+	uv build
+
+package-install:
+	uv pip install dist/*.whl
