@@ -32,3 +32,5 @@
 **Запуск:**
 ```sh
 brain-even
+
+ https://asciinema.org/a/i1txyqlfpoFCogjJg9Jk4qA50
