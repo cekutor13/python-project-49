@@ -11,3 +11,5 @@
 
 ## 🎮 Демонстрация игры Brain Calc
 [![asciinema](https://asciinema.org/a/Qg1RKlZixjU5UpzuX9NhuSIGY.svg)](https://asciinema.org/a/Qg1RKlZixjU5UpzuX9NhuSIGY)
+
+    https://asciinema.org/a/DGNbkTJtFfZtuwpdesBftjqRN
